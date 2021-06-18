@@ -1,0 +1,8 @@
+Scripts related to processing performed in this project:
+  1. CGD_yearly_sums.py
+  2. GIS_processing.py
+  3. CGD_plots
+  
+Required input data found in scripts are found in these folders:
+  1. GID_input_data
+  2. python_input_files
